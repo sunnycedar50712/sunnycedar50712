@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm sunnycedar
 
-<!--
-**sunnycedar50712/sunnycedar50712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a person who likes writing code and figuring things out.
 
-Here are some ideas to get you started:
+### About me
+- Currently learning and experimenting with programming
+- Spending time on small personal projects and reading docs
+- Still exploring what I enjoy building the most
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- Languages: Python, JavaScript
+- Tools: Git, Linux, VS Code
+- Others: HTML/CSS, basic Node.js
+
+### Projects
+Nothing public yet — this space will grow as I ship more things.
+
+---
+
+Feel free to look around or say hi if you're working on something interesting.
